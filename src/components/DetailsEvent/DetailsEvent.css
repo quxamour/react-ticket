@@ -1,0 +1,28 @@
+@media (max-width: 550px){
+    .dt_card{
+        max-width: 200px;
+    }
+
+    .dt_photo {
+        max-width: 180px;
+    }
+
+    .dt_btn {
+        max-width: 20px;
+        max-height: 20px;
+    }
+
+    .dt_icon {
+        max-width: 15px;
+    }
+}
+
+@media (max-width: 450px){
+    .dt_card{
+        max-width: 150px;
+    }
+
+    .dt_photo {
+        max-width: 120px;
+    }
+}

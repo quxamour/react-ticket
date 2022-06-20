@@ -1,0 +1,16 @@
+@media (max-width: 850px){
+    .box_filter{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .search {
+        max-width: 60%;
+        max-height: 30px;
+    }
+
+    .filter {
+        max-width: 70%;
+        max-height: 40px;
+    }
+}

@@ -1,0 +1,68 @@
+{
+  "events": [
+    {
+      "photo": "https://sxodim.com/uploads/images/2022/02/28/optimized/041805c9e1585cac2e88ed10d3ac0920_800xauto-q-85.jpg",
+      "title": "Картинг клуб \"Старт\"",
+      "date": "23.06.22",
+      "price": 400,
+      "place": "Парк \"Асанбай\"",
+      "id": 3
+    },
+    {
+      "photo": "https://sxodim.com/uploads/images/2022/06/15/optimized/23b598ddae0e3205f4435f4a55377eed_800xauto-q-85.jpg",
+      "title": "\"Toyboss Night Run\"",
+      "date": "18.06.22",
+      "price": 500,
+      "place": "ул. ​Чокана Валиханова, 2",
+      "id": 4
+    },
+    {
+      "photo": "https://sxodim.com/uploads/images/2022/06/15/optimized/e7409f5a5a754bae629dda99d87c937e_800xauto-q-85.jpg",
+      "title": "Выступление Миши Марвина",
+      "date": "18 июня, 20:00",
+      "price": 1000,
+      "place": "ул. ​ Токомбаева, 21а/4",
+      "id": 5
+    },
+    {
+      "photo": "https://sxodim.com/uploads/images/2022/05/30/optimized/df2eba7003feea04ac2cec9eaa8a1778_800xauto-q-85.jpg",
+      "title": "«Ван Гог. Тайны гения и безумца»",
+      "date": "C 30 апреля",
+      "price": 100,
+      "place": "«Art Place» ЦУМ \"Айчурек\"",
+      "id": 6
+    },
+    {
+      "photo": "https://sxodim.com/uploads/images/2022/06/15/optimized/645b9668ee43e1df8897de2cbafcc56e_800xauto-q-85.jpg",
+      "title": "Балет \"Жизель\"",
+      "date": "18.06.22",
+      "price": 200,
+      "place": "Кыргызский театр оперы и балета им А.Малдыбаева КУПИТЬ БИЛЕТ",
+      "id": 7
+    },
+    {
+      "photo": "https://sxodim.com/uploads/images/2022/06/01/optimized/fdce1f9181c56aac64ea2026c13cd1d0_800xauto-q-85.jpg",
+      "title": "Спектакль «Красавица и Чудовище»",
+      "date": "19.06.22",
+      "price": 100,
+      "place": " ул. Касыма Тыныстанова, 122",
+      "id": 8
+    },
+    {
+      "photo": "https://sxodim.com/uploads/images/2022/06/01/optimized/fbc7f120d4dfd4ae537e6dc7f2ae627c_800xauto-q-85.jpg",
+      "title": "«Asia Life Fest 2.0: Orchestra»",
+      "date": "20.06.22",
+      "price": 200,
+      "place": "Asia Mall",
+      "id": 9
+    },
+    {
+      "photo": "https://kremlinpalace.org/images/events/1602246074.jpg",
+      "title": "\"Лебединое озеро\"",
+      "date": "26.06.22",
+      "price": 250,
+      "place": "Кыргызский театр оперы и балета им А.Малдыбаева",
+      "id": 10
+    }
+  ]
+}

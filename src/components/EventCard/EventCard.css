@@ -1,0 +1,23 @@
+@media (max-width: 850px){
+    .event_card {
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+    }
+
+    .edit_card {
+        max-width: 150px;
+        max-height: 400px;
+    }
+
+    .edit_photo {
+        max-width: 120px;
+        max-height: 100px;
+    }
+
+    .edit_btn {
+        max-width: 90px;
+        max-height: 20px;
+        font-size: 6px;
+    }
+}
